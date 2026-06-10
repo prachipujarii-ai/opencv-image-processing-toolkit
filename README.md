@@ -123,7 +123,7 @@ Through this project, I learned:
   
 ## Author
 Developed by: Prachi Pujari
-Github: prachipujarii-ai
+Github: @prachipujarii-ai
 
 ## License
 MIT License
